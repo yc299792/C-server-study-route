@@ -1,3 +1,6 @@
+/*
+*这是二叉搜索树的创建方式和基本操作
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<assert.h>
